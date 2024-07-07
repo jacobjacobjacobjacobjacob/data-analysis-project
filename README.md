@@ -5,7 +5,7 @@ Collection of different data analysis projects.
 ## Projects
 
 
-### _World Happiness Report_
+### World Happiness Report
 #### traffic-mortality.ipynb
 
 This notebook explores the relationship between global happiness and traffic mortality rates. Utilizing datasets from the World Happiness Report and the World Health Organization (WHO) on traffic mortality, the analysis investigates potential correlations and trends. The goal is to understand how socio-economic factors and public health metrics intersect with traffic safety.
