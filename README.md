@@ -4,6 +4,7 @@ Collection of different data analysis projects.
 
 ## Projects
 
+---
 ### World Happiness Report
 #### traffic-mortality.ipynb
 
@@ -13,6 +14,7 @@ This notebook explores the relationship between global happiness and traffic mor
 #### data-science-salaries.ipynb
 
 Explores correlation between salaries based on job title, location, rate of remote work etc. Unpolished. 
+---
 
 ## Features
 
